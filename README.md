@@ -1,8 +1,6 @@
 python-npm
 ==========
 
-[![Build Status](https://travis-ci.org/markfinger/python-npm.svg?branch=master)](https://travis-ci.org/markfinger/python-npm)
-
 Python bindings and utils for [npm](http://npmjs.com).
 
 ```python
